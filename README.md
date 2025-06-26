@@ -6,4 +6,4 @@
 
 📚 I’m currently taking multiple courses through Udemy on Software Development.
 
-🎨 Making videos about game development, software development, and tutorials.
+🎨 I make videos about my game development, software development, and tutorials.
