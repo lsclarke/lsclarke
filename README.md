@@ -4,7 +4,8 @@
 
 👨🏾‍🎓 I studied Game Development at William Peace University in Raleigh North Carolina. 
 
-🎨 I make videos about my game development, software development, and tutorials.
-
 📚 I’m currently taking multiple courses through Udemy on Software Development.
 
+🎨 I make videos about my game development, software development, and tutorials.
+
+🏫 I was also n educator teaching Programming and Game Development.
