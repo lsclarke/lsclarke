@@ -8,6 +8,6 @@
 
 🎨 I make videos about my game development, software development, and tutorials.
 
-🏫 I was also n educator teaching Programming and Game Development.
+🏫 I was also a educator teaching Programming and Game Development.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsclarke&show_icons=true&theme=neon)
