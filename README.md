@@ -10,5 +10,5 @@
 
 🏫 I was also a **educator** teaching **programming** and **game development**.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsclarke&show_icons=true&theme=neon)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsclarke&show_icons=true&theme=neon)
 
