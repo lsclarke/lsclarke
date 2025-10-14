@@ -12,3 +12,6 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsclarke&show_icons=true&theme=neon)
 
+Contact 📞
+<hr>
+Contact me at ryanabeysinghe75@gmail.com or My Portfolio for any questions/inquiries.
