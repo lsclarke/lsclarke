@@ -3,12 +3,9 @@
 
 <p align="center" dir="auto">I'm a Software Developer based in Maryland. As a developer I aim to create exciting cutting-edge solutions and applications, furthermore bringing concepts and ideas to life. The passion and the drive of problem solving and turning words into reality is what yields the best experience possible. Using modern day frameworks and tools to do so. I take pride and satisfaction in developing amazing back-end systems using the knowledge I have gained over the years to develop ready made deliverables for applications and various projects.</p>
 
-##
-<h2 align="center" dir="auto"> Contact Information 📞</h2>
+
 
 <div align="center">
-  
-<p align="center" dir="auto">Contact me at <a href="mailto:lenardclarke22@gmail.com">lenardclarke22@gmail.com</a> or <a href="https://github.com/lsclarke/Portfolio-Website/blob/main/index.html">My Portfolio</a> for any questions/inquiries.</p>
 
 </div>
 
@@ -39,4 +36,8 @@
 | Visual Studio | VSCode | Eclipse | Git | Jira |
 | --- | --- | --- | --- | --- |
 | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/visual-studio.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/vscode.svg" width="50"> |  <img src="https://github.com/lsclarke/lsclarke/blob/main/img/eclipse.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/git.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/jira.svg" width="50"> | 
+
+ ##
+<h2 align="center" dir="auto"> Contact Information 📞</h2> 
+<p align="center" dir="auto">Contact me at <a href="mailto:lenardclarke22@gmail.com">lenardclarke22@gmail.com</a> or <a href="https://github.com/lsclarke/Portfolio-Website/blob/main/index.html">My Portfolio</a> for any questions/inquiries.</p>
 </div>
