@@ -10,5 +10,5 @@
 
 | C# | C++ | Java | Java Script |
 | --- | --- | ---- | --- |
-| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/csharp.svg" width="200"> | C++ | Java | Java Script |
+| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/csharp.svg" width="100"> | C++ | Java | Java Script |
 
