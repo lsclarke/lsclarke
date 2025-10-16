@@ -13,7 +13,7 @@
 
 <h2 align="center" dir="auto">Languages and Tools 🧰:</h2>
 
-<h2 dir="auto">Software Developer</h2>  
+<h2 dir="auto">Lenard Clarke</h2>  
 <h2 align="center" dir="auto"><strong><code>Software Developer</code></strong> <strong><code>Game Developer</code></strong> <strong><code>Front-End Web Developer</code></strong></h2>
 
 | C# | C++ | Java | Java Script | HTML | CSS | SQL |
