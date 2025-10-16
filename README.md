@@ -1,3 +1,3 @@
-<p style="text-align:center;">Lenard Clarke</p>
+<p align="center">Lenard Clarke</p>
 
 
