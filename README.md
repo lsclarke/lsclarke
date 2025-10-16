@@ -16,7 +16,7 @@
 
 | .Net | QT | Unity | Unreal | Bootstrap | Postgre |
 | --- | --- | ---- | --- | --- | --- |
-| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/dotnet.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/qt.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/unity.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/unrealengine.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/bootstrap.svg" width="75"> |<img src="https://github.com/lsclarke/lsclarke/blob/main/img/bootstrap.svg" width="75"> |
+| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/dotnet.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/qt.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/unity.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/unrealengine.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/bootstrap.svg" width="75"> |<img src="https://github.com/lsclarke/lsclarke/blob/main/img/pgsql" width="75"> |
 
 <br>
 <h2 dir="auto">Database Technologies and Management :</h2>
