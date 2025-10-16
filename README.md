@@ -9,6 +9,7 @@
 <h2 align="center" dir="auto"> Contact Information</h2>
 
 | Email | Portfolio Wensite |
+| --- | --- |
 | lenardclarke22@gmail.com | C++ |
 
 <hr></hr>
