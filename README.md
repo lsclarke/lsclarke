@@ -2,4 +2,4 @@
 <p align="center" dir="auto"><strong><code>Software Developer</code></strong> <strong><code>Game Developer</code></strong> <strong><code>Front-End Web Developer</code></strong></p>
 <hr></hr>
 
-<p align="center" dir="auto">I'm a Software Engineer based in Maryland. I find great satisfaction in the process of transforming concepts into cutting-edge applications. Delve into my most recent experience, projects, and education, showcasing my knowledge in full-stack development within the field of computer science.</p>
+<p align="center" dir="auto">I'm a software Developer based in Maryland. As developers I aim to create exciting cutting-edge solutions and applications, furthermore bringing concepts and ideas to life. The passion and the drive of problem solving and turning words into reality is what yields the best experience possible. Using modern day frameworks and tools to do so. I take pride and stisfaction in developing amazing back-end systems using the knowledge I have gained over the years to develop ready made deliverables for applications simulation projects.</p>p
