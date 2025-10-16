@@ -8,7 +8,7 @@
 
 <div align="center">
   
-<p align="center" dir="auto">Contact me at ryanabeysinghe75@gmail.com or My Portfolio for any questions/inquiries.</p>
+<p align="center" dir="auto">Contact me at <a href="mailto:lenardclarke22@gmail.com">lenardclarke22@gmail.com</a> or <a href="https://github.com/lsclarke/Portfolio-Website/blob/main/index.html">My Portfolio</a> for any questions/inquiries.</p>
 
 </div>
 
