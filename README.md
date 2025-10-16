@@ -8,7 +8,7 @@
 
 <h2 dir="auto">Programming Languages:</h2>  
 
-| C# | C++ | Java | Java Script |
-| --- | --- | ---- | --- |
-| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/csharp.svg" width="100"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/cpp.svg" width="100"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/java.svg" width="100"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/javascript.svg" width="100"> |
+| C# | C++ | Java | Java Script | HTML | CSS |
+| --- | --- | ---- | --- | --- | --- |
+| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/csharp.svg" width="100"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/cpp.svg" width="100"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/java.svg" width="100"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/javascript.svg" width="100"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/html.svg" width="100"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/css.svg" width="100"> |
 
