@@ -40,5 +40,5 @@
 
  ##
 <h2 align="center" dir="auto"> Contact Information 📞</h2> 
-<p align="center" dir="auto">Contact me at <a href="mailto:lenardclarke22@gmail.com">lenardclarke22@gmail.com</a> or <a href="https://github.com/lsclarke/Portfolio-Website/blob/main/index.html">My Portfolio</a> for any questions/inquiries.</p>
+<p align="center" dir="auto">Contact me at <a href="mailto:lenardclarke22@gmail.com">lenardclarke22@gmail.com</a> or <a href="https://lsclarke.github.io/Portfolio-Website/index.html">My Portfolio</a> for any questions/inquiries.</p>
 </div>
