@@ -6,15 +6,20 @@
 
 <h2 align="center" dir="auto">Languages and Tools 🧰:</h2>
 
-<h2 dir="auto">Programming Languages :</h2>  
+<h2 dir="auto">Programming Languages <img src="">:</h2>  
 
-| C# | C++ | Java | Java Script | HTML | CSS |
+| C# | C++ | Java | Java Script | HTML | CSS | SQL |
 | --- | --- | ---- | --- | --- | --- |
-| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/csharp.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/cpp.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/java.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/javascript.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/html.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/css.svg" width="75"> |
+| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/csharp.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/cpp.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/java.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/javascript.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/html.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/css.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/css.svg" width="75"> |
 
 <h2 dir="auto">Frameworks and Platforms :</h2>  
 
-| .Net | QT | Unity | Unreal | Bootstrap |
+| .Net | QT | Unity | Unreal | Bootstrap | Postgre |
 | --- | --- | ---- | --- | --- |
 | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/dotnet.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/qt.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/unity.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/unrealengine.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/bootstrap.svg" width="75"> |
 
+<h2 dir="auto">Database Technologies and Management :</h2>
+  
+| Postgre | mySQL |
+| --- | --- |
+| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/dotnet.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/qt.svg" width="75"> | 
