@@ -7,6 +7,7 @@
 <h2 align="center" dir="auto">Languages and Tools 🧰:</h2>
 
 <h2 dir="auto">Programming Languages:</h2>  
+
 | C# | C++ | Java | Java Script |
 | --- | --- | ---- | --- |
 | C# | C++ | Java | Java Script |
