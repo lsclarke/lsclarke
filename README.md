@@ -28,4 +28,4 @@
   
 | Visual Studio | VSCode | Eclipse | Git | Jira |
 | --- | --- | --- | --- | --- |
-| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/visualstudio.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/vscode.svg" width="75"> |  <img src="https://github.com/lsclarke/lsclarke/blob/main/img/eclipse.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/git.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/jira.svg" width="75"> | 
+| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/visual-studio.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/vscode.svg" width="75"> |  <img src="https://github.com/lsclarke/lsclarke/blob/main/img/eclipse.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/git.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/jira.svg" width="75"> | 
