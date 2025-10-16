@@ -27,8 +27,6 @@
 | --- | --- | ---- | --- | --- | --- | --- |
 | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/csharp.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/cpp.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/java.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/javascript.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/html.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/css.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/sql.svg" width="75"> |
 
-</div>
-
 <h2 dir="auto">Frameworks and Platforms 🔩:</h2>  
 
 | .Net | QT | Unity | Unreal | Bootstrap |
@@ -46,3 +44,4 @@
 | Visual Studio | VSCode | Eclipse | Git | Jira |
 | --- | --- | --- | --- | --- |
 | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/visual-studio.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/vscode.svg" width="75"> |  <img src="https://github.com/lsclarke/lsclarke/blob/main/img/eclipse.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/git.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/jira.svg" width="75"> | 
+</div>
