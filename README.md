@@ -13,7 +13,7 @@
 
 <h2 align="center" dir="auto">Languages and Tools 🧰:</h2>
 
-<h2 dir="auto">Programming Languages 🔧:</h2>  
+<h2 dir="auto">Software Developer</h2>  
 
 | C# | C++ | Java | Java Script | HTML | CSS | SQL |
 | --- | --- | ---- | --- | --- | --- | --- |
