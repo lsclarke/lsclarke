@@ -25,7 +25,7 @@
 
 | C# | C++ | Java | Java Script | HTML | CSS | SQL |
 | --- | --- | ---- | --- | --- | --- | --- |
-| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/csharp.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/cpp.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/java.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/javascript.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/html.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/css.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/sql.svg" width="75"> |
+| <a href="https://github.com/lsclarke?tab=repositories&q=&type=&language=c%23&sort="><img src="https://github.com/lsclarke/lsclarke/blob/main/img/csharp.svg" width="75"></a> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/cpp.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/java.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/javascript.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/html.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/css.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/sql.svg" width="75"> |
 
 <h2 dir="auto">Frameworks and Platforms 🔩:</h2>  
 
