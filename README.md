@@ -25,23 +25,23 @@
 
 | C# | C++ | Java | Java Script | HTML | CSS | SQL |
 | --- | --- | ---- | --- | --- | --- | --- |
-| <a href="https://github.com/lsclarke?tab=repositories&q=&type=&language=c%23&sort="><img src="https://github.com/lsclarke/lsclarke/blob/main/img/csharp.svg" width="75"></a> | <a href="https://github.com/lsclarke?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://github.com/lsclarke/lsclarke/blob/main/img/cpp.svg" width="75"></a> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/java.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/javascript.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/html.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/css.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/sql.svg" width="75"> |
+| <a href="https://github.com/lsclarke?tab=repositories&q=&type=&language=c%23&sort="><img src="https://github.com/lsclarke/lsclarke/blob/main/img/csharp.svg" width="50"></a> | <a href="https://github.com/lsclarke?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://github.com/lsclarke/lsclarke/blob/main/img/cpp.svg" width="50"></a> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/java.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/javascript.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/html.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/css.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/sql.svg" width="50"> |
 
 <h2 dir="auto">Frameworks and Platforms 🔩:</h2>  
 
 | .Net | QT | Unity | Unreal | Bootstrap |
 | --- | --- | ---- | --- | --- |
-| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/dotnet.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/qt.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/unity.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/unrealengine.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/bootstrap.svg" width="75"> |
+| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/dotnet.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/qt.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/unity.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/unrealengine.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/bootstrap.svg" width="50"> |
 
 <h2 dir="auto">Database Technologies and Management ⚙️:</h2>
   
 | Postgre | mySQL |
 | --- | --- |
-| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/pgsql.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/mysql.svg" width="75"> | 
+| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/pgsql.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/mysql.svg" width="50"> | 
 
 <h2 dir="auto">Tools and Concepts 🛠️:</h2>
   
 | Visual Studio | VSCode | Eclipse | Git | Jira |
 | --- | --- | --- | --- | --- |
-| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/visual-studio.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/vscode.svg" width="75"> |  <img src="https://github.com/lsclarke/lsclarke/blob/main/img/eclipse.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/git.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/jira.svg" width="75"> | 
+| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/visual-studio.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/vscode.svg" width="50"> |  <img src="https://github.com/lsclarke/lsclarke/blob/main/img/eclipse.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/git.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/jira.svg" width="50"> | 
 </div>
