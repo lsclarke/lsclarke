@@ -18,9 +18,14 @@
 | --- | --- | ---- | --- | --- |
 | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/dotnet.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/qt.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/unity.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/unrealengine.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/bootstrap.svg" width="75"> |
 
-<br>
 <h2 dir="auto">Database Technologies and Management :</h2>
   
 | Postgre | mySQL |
 | --- | --- |
 | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/pgsql.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/mysql.svg" width="75"> | 
+
+<h2 dir="auto">Tools and Concepts :</h2>
+  
+| Visual Studio | VSCode | Eclipse | Git | Jira |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/visualstudio.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/vscode.svg" width="75"> |  <img src="https://github.com/lsclarke/lsclarke/blob/main/img/eclipse.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/git.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/jira.svg" width="75"> | 
