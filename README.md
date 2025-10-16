@@ -3,7 +3,7 @@
 
 <p align="center" dir="auto">I'm a Software Developer based in Maryland with a bachelor's in Simulations and Game Development. As a developer I aim to create exciting cutting-edge solutions and applications, furthermore bringing concepts and ideas to life. The passion and the drive of problem solving and turning words into reality is what yields the best experience possible. Using modern day frameworks and tools to do so. I take pride and satisfaction in developing amazing back-end systems using the knowledge I have gained over the years to develop ready made deliverables for applications and various projects.</p>
 
-
+<h2 dir="auto">Programming Languages 🔧:</h2>  
 
 <div align="center">
 
@@ -13,8 +13,8 @@
 
 <h2 align="center" dir="auto">Languages and Tools 🧰:</h2>
 
-<h2 dir="auto">Programming Languages 🔧:</h2>  
-
+<h2 dir="auto">Software Developer</h2>  
+<h1 align="center">Lenard Clarke</h1>
 | C# | C++ | Java | Java Script | HTML | CSS | SQL |
 | --- | --- | ---- | --- | --- | --- | --- |
 | <a href="https://github.com/lsclarke?tab=repositories&q=&type=&language=c%23&sort="><img src="https://github.com/lsclarke/lsclarke/blob/main/img/csharp.svg" width="50"></a> | <a href="https://github.com/lsclarke?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://github.com/lsclarke/lsclarke/blob/main/img/cpp.svg" width="50"></a> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/java.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/javascript.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/html.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/css.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/sql.svg" width="50"> |
