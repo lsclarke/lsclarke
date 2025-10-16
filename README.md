@@ -23,4 +23,4 @@
   
 | Postgre | mySQL |
 | --- | --- |
-| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/pgsql.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/qt.svg" width="75"> | 
+| <img src="https://github.com/lsclarke/lsclarke/blob/main/img/pgsql.svg" width="75"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/mysql.svg" width="75"> | 
