@@ -10,7 +10,7 @@
 
 <div align="center">
   
-| Email | Portfolio Wensite |
+| Email📨 | Portfolio Wensite💻 |
 | --- | --- |
 | lenardclarke22@gmail.com | https://lsclarke.github.io/Portfolio-Website/ |
 
