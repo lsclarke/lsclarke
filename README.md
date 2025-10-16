@@ -8,9 +8,7 @@
 
 <div align="center">
   
-| Email📨 | Portfolio Wensite💻 |
-| --- | --- |
-| lenardclarke22@gmail.com | https://lsclarke.github.io/Portfolio-Website/ |
+<p align="center" dir="auto">Contact me at ryanabeysinghe75@gmail.com or My Portfolio for any questions/inquiries.</p>
 
 </div>
 
