@@ -13,7 +13,8 @@
 
 <h2 align="center" dir="auto">Languages and Tools 🧰:</h2>
 
-<h2 dir="auto">Software Developer</h2>  
+<h2 dir="auto">Programming Languages 🔧:</h2>  
+
 | C# | C++ | Java | Java Script | HTML | CSS | SQL |
 | --- | --- | ---- | --- | --- | --- | --- |
 | <a href="https://github.com/lsclarke?tab=repositories&q=&type=&language=c%23&sort="><img src="https://github.com/lsclarke/lsclarke/blob/main/img/csharp.svg" width="50"></a> | <a href="https://github.com/lsclarke?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://github.com/lsclarke/lsclarke/blob/main/img/cpp.svg" width="50"></a> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/java.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/javascript.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/html.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/css.svg" width="50"> | <img src="https://github.com/lsclarke/lsclarke/blob/main/img/sql.svg" width="50"> |
