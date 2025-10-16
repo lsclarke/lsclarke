@@ -6,13 +6,13 @@
 
 <hr></hr>
 
-<h2 align="center" dir="auto"> Contact Information</h2>
+<h2 align="center" dir="auto"> Contact Information 📞</h2>
 
 <div align="center">
   
 | Email | Portfolio Wensite |
 | --- | --- |
-| lenardclarke22@gmail.com | C++ |
+| lenardclarke22@gmail.com | https://lsclarke.github.io/Portfolio-Website/ |
 
 </div>
 
